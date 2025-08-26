@@ -1,2 +1,3 @@
 
-<img width="880" height="501" alt="arvore" src="https://github.com/user-attachments/assets/08313a8d-15f6-4972-859e-d725b3a8719e" />
+
+<img width="880" height="501" alt="arvore" src="https://github.com/user-attachments/assets/0ffba4b7-23db-43a4-bbb3-7e94591d32dc" />
